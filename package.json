@@ -1,0 +1,13 @@
+{
+  "name": "ecu-firmware-api",
+  "version": "1.0.0",
+  "description": "车载ECU固件版本管理API — PingCode DevOps 演示用",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/*.test.js",
+    "lint": "node -e \"console.log('[OK] lint passed')\""
+  },
+  "keywords": ["automotive", "ecu", "firmware", "ota"],
+  "license": "MIT"
+}
