@@ -1,6 +1,7 @@
 # ECU Firmware API
 
 车载 ECU 固件版本管理 API — PingCode DevOps 集成演示项目。
+PingCode GitHub integration test for #ECU-5.
 
 ## API 端点
 
